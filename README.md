@@ -10,7 +10,7 @@ This is a document-based chatbot that uses a conversational retrieval chain to a
 First, install the necessary dependencies by running:
 
 ```
-pip install -q langchain==0.0.150 pypdf pandas matplotlib tiktoken textract transformers openai faiss-cpu
+!pip install -q langchain==0.0.150 pypdf pandas matplotlib tiktoken textract transformers openai faiss-cpu
 ```
 
 ## How to Use
